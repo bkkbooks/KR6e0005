@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6e0005/v1
+canonical_location: https://kanripo.org/bkk/KR6e0005/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 花嚴經文義綱目
+  identifiers:
+    alt_id:
+    - T35n1734
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T35/T35n1734.xml
+    old_id: T35n1734
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 原
+  label: 原
+  source_xml_id: wit3
+- short: 知
+  label: 知
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0005_000.yaml, hash: 'sha256:947b7d7674cf34bdd02e9aaf5967952fd3303c08e3e56604ab1330b6a92bdce2'}
+  - {seq: 1, filename: KR6e0005_001.yaml, hash: 'sha256:1d46c1299118860ccb974dc31aa2426f6133209fdb2beb9cc2e091524b3be6ff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0005_000.markers.yaml, hash: 'sha256:a38beb325294baa8707a765765c999a127a796dd9a1e02b27c5c5de559fdb790'}
+  - {seq: 1, role: markers, filename: assets/KR6e0005_001.markers.yaml, hash: 'sha256:ecef06feb5963d60fcc49fefd10879a5db964ff9eed7d0b47a18d312808a635d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6e0005_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 華嚴經文義綱目刊行序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0005_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12960
+  label: 花嚴經文義綱目一卷
+  type: juan
+  level: 1
+hash: sha256:1570f1190802a417081a92d0f6307e159ec7f62c5e69dc23c68f44904f1d8781
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
