@@ -30,11 +30,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0005_000.yaml, hash: 'sha256:947b7d7674cf34bdd02e9aaf5967952fd3303c08e3e56604ab1330b6a92bdce2'}
-  - {seq: 1, filename: KR6e0005_001.yaml, hash: 'sha256:1d46c1299118860ccb974dc31aa2426f6133209fdb2beb9cc2e091524b3be6ff'}
+  - {seq: 0, filename: KR6e0005_000.yaml, hash: 'sha256:522a2d4fe78484d6c833c5a3acc028e900fd18ea953a7ebe9e0e347687f32969'}
+  - {seq: 1, filename: KR6e0005_001.yaml, hash: 'sha256:4582b1a1a6a6efcd593a84710d92788bd77d686b3a77e327239ecb0980b1723c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0005_000.markers.yaml, hash: 'sha256:a38beb325294baa8707a765765c999a127a796dd9a1e02b27c5c5de559fdb790'}
-  - {seq: 1, role: markers, filename: assets/KR6e0005_001.markers.yaml, hash: 'sha256:ecef06feb5963d60fcc49fefd10879a5db964ff9eed7d0b47a18d312808a635d'}
+  - {seq: 0, role: markers, filename: assets/KR6e0005_000.markers.yaml, hash: 'sha256:9cd5720dd6e10ae01944055d8ce4a167763bc392453c857ebdeb85870147ff81'}
+  - {seq: 1, role: markers, filename: assets/KR6e0005_001.markers.yaml, hash: 'sha256:af13e541b8dc22c738bb79fbb398400a9f2d94203bc4d65d1cab78deb9d599a4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,4 @@ table_of_contents:
   label: 花嚴經文義綱目一卷
   type: juan
   level: 1
-hash: sha256:1570f1190802a417081a92d0f6307e159ec7f62c5e69dc23c68f44904f1d8781
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:beccefcdb16e68022c13f6ec3cf1dfd8ec419f8f086bd1d034fac003bcd6bd63
