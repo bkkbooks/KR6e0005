@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0005_000-T.yaml, hash: 'sha256:522a2d4fe78484d6c833c5a3acc028e900fd18ea953a7ebe9e0e347687f32969'}
+  - {seq: 0, filename: KR6e0005_000-T.yaml, hash: 'sha256:828231787af263f59b0479e059d1934b11a2b942a828b6de16b171747f180435'}
   - {seq: 1, filename: KR6e0005_001-T.yaml, hash: 'sha256:4582b1a1a6a6efcd593a84710d92788bd77d686b3a77e327239ecb0980b1723c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0005_000-T.markers.yaml, hash: 'sha256:6f9a75c022118aa05740c439ba5d98a592b319d0961bb90aa99ae7b0872677dd'}
+  - {seq: 0, role: markers, filename: assets/KR6e0005_000-T.markers.yaml, hash: 'sha256:e0d320d055df84558ba1dc72044c6919e88a268439ff187da74e485fa351ff8a'}
   - {seq: 1, role: markers, filename: assets/KR6e0005_001-T.markers.yaml, hash: 'sha256:a2c3fb7023614a4bb4a493a33e6b6f80a4cd80a6befe0586d3bf54c34f822728'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0005_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 華嚴經文義綱目刊行序
@@ -45,4 +45,4 @@ table_of_contents:
   label: 花嚴經文義綱目一卷
   type: juan
   level: 1
-hash: sha256:ad02ccf9f4dc82fe2e7816e56371b884add19e8eef7044342f24e5a16b8cbe7d
+hash: sha256:9c49d52d0cf8ed7a583b563db91e74d50a3ae3fbb06bdfb855dbdb46a4772187
